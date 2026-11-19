@@ -86,6 +86,7 @@ python3 cudagraph_benchmark.py         # baseline vs compiled plus cuda graph, d
 
 ## files
 
+- `writeup.pdf` full writeup covering the approach, correctness methodology and results
 - `common.py` model loading and the benchmark and perplexity functions shared by every script
 - `rmsnorm_kernel.py` fused rms norm kernel plus its own correctness test
 - `fused_add_rmsnorm_kernel.py` fused residual add plus rms norm kernel plus its own correctness test
