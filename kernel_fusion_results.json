@@ -1,0 +1,14 @@
+{
+  "baseline": {
+    "tokens_per_sec_mean": 61.130806987595435,
+    "tokens_per_sec_std": 2.5494344325936544,
+    "perplexity": 26.964298248291016
+  },
+  "patched": {
+    "tokens_per_sec_mean": 62.45331482761959,
+    "tokens_per_sec_std": 3.6722772257363525,
+    "perplexity": 26.96894645690918
+  },
+  "speedup": 1.0216340648061872,
+  "perplexity_delta": 0.0046482086181640625
+}
